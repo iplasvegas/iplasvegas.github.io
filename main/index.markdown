@@ -2,7 +2,10 @@
 layout: home
 ---
 
-## Hello, I'm Jacob Smith a soon to be intellectual property attorney and circus performer operating in Las Vegas Nevada and beyond. 
+## Hello, I'm Jacob Smith a soon to be intellectual property attorney and current independant circus performer operating in Las Vegas Nevada and beyond. 
 
-Please find on this site all things me, including my resume, blog, circus exploits, and projects. If you would like to reach me, feel free to email jacob@iplasvegas.com.
+On this page you can find my resume, blog, and other intellectual property related information. For my circus page please click on the Yeehaw Circus button above.
+
+If you need to reach me, please do so at jacob@iplasvegas.com
+
 Thanks for visiting!
