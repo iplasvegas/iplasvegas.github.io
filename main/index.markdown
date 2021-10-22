@@ -1,5 +1,6 @@
 ---
 layout: home
+heading: IP Las Vegas
 ---
 
 ## Hello, I'm Jacob Smith a soon to be intellectual property attorney and current independant circus performer operating in Las Vegas Nevada and beyond. 
