@@ -27,7 +27,7 @@ twitter_username: IPLasVegas
 github_username:  IPLasVegas
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
