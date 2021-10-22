@@ -1,1 +1,9 @@
+title: IP Las Vegas
+email: jacob@iplasvegas.com
+description: This site contains blog posts regarding intellectual property in Las Vegas and beyond. Additionally, this site functions as a live resume for Jacob Smith.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: IPLasVegas
+github_username:  IPLasVegas
+
 theme: jekyll-theme-slate
