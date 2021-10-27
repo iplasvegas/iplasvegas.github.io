@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jacob Smith"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello, and thank you for visiting! I am a soon to be intellectual property attorney based in Las Vegas. I am also an independant circus performer."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
