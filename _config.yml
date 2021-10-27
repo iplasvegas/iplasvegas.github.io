@@ -5,7 +5,6 @@ plugins:
 title: IP Las Vegas
 email: jacob@iplasvegas.com
 description: This site contains blog posts regarding intellectual property in Las Vegas and beyond. Additionally, this site functions as a live resume for Jacob Smith.
-baseurl: /home
 url: http://iplasvegas.com
 twitter_username: IPLasVegas
 github_username:  IPLasVegas
