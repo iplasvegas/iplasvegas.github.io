@@ -13,9 +13,6 @@ defaults:
      values:
       layout: "default"
 
-markdown: kramdown
-theme: jekyll-theme-slate
-
 exclude: 
   -Gemfile
   -Gemfile.lock
