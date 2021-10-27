@@ -7,7 +7,7 @@ twitter_username: IPLasVegas
 github_username:  IPLasVegas
 
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 
 exclude: 
   -Gemfile
