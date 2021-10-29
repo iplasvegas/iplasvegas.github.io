@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site operates as a blog and living resume for Jacob Smith. 
 twitter_username: IPLasVegas
 github_username: IPLasVegas
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
