@@ -16,9 +16,9 @@ footer of this page and on the task bar to your left are links to my professiona
 All of my accounts relate to my legal life aside from my Instagram which promotes my circus
 life. 
 
-All of the code for this site is free to use, copy, and modify. If you have questions regarding the licensing please navigate to https://iplavegas.com/license. 
+All of the code for this site is free to use, copy, and modify. If you have questions regarding the licensing please navigate to my [license][license] page. 
 
-If you would like to help me improve my page please make suggestions at https://github.com/iplasvegas/iplasvegas.github.io
+If you would like to help me improve my page please make suggestions on [Github][Github]
 
 This site was built using Jekyll.
 
@@ -28,3 +28,5 @@ you can ask them on [Jekyll Talk][jekyll-talk].
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[license]: https://iplasvegas.com/license
+[Github]: https://github.com/iplasvegas/iplasvegas.github.io
