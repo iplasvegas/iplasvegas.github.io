@@ -37,15 +37,15 @@ title: "Resume"
  * Conducted research into the carbon tax plans implemented nationally, internationally, and in each U.S. State.
  * Assembled and summarized data and information on how to best implement a carbon pricing policy in Nevada.
 ### University of Nevada, Las Vegas, NV
-#### Research and Teaching Assistant for Professor John White, Summer 2019 – Fall 2021
+*Research and Teaching Assistant for Professor John White, Summer 2019 – Fall 2021*
 ### Z Bar and Patio, Reno, NV
-#### Bartender and Bar Manager, Summer 2016 – Summer 2019
+*Bartender and Bar Manager, Summer 2016 – Summer 2019*
 ### Campo Sparks, Reno, NV
-#### Bartender and Server, 2015
+*Bartender and Server, 2015*
 ### Joe Crowley Student Union, Reno, NV
-#### Facility Supervisor and Event Programmer, 2012 - 2017
+*Facility Supervisor and Event Programmer, 2012 - 2017*
 ### L & J Services Pool Cleaning
-#### Truck Lead, 2010 - 2012
+*Truck Lead, 2010 - 2012*
   
 ## Interests
 acrobatics; fire spinning/breathing; traveling; cooking; carpentry; guitar repair; computer repair; rock climbing
