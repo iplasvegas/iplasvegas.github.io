@@ -3,18 +3,24 @@ permalink: /resume/
 title: "Resume"
 ---
 <center>
-# Jacob T Smith
+  
+## Jacob T Smith
 
 ## Education
 ### University of Nevada, Las Vegas - Las Vegas, NV
 #### Juris Doctorate, *Graduating Spring 2022*
-: NLG Boyd co-founder and steering committee member; Emphasis in intellectual property and civil rights; Student attorney with the policing and protest clinic; Participation in multiple national conferences including Intellectual Property Law, Trial Lawyer University, and the International Legal Technology Association.
+* NLG Boyd co-founder and steering committee member
+* Emphasis in intellectual property and civil rights
+* Student attorney with the policing and protest clinic
+* Participation in multiple national conferences including Intellectual Property Law, Trial Lawyer University, and the International Legal Technology Association.
 ### University of Nevada, Reno - Reno, NV
 #### Master of Business Administration, *Spring 2019*
-: Focused primarily on classes involving entrepreneurship, renewable energy, and data analytics. Participated on the 2018 and 2019 University of Nevada cheer team as a member of the stunting team.
+* Focused primarily on classes involving entrepreneurship, renewable energy, and data analytics
+* Paticipated on the 2018 and 2019 University of Nevada cheer team as a member of the stunting team.
 ### University of Nevada, Reno - Reno, NV
 #### Bachelor of Science, Mechanical Engineering, *Spring 2017*
-: Focused on artificial intelligence, renewable energies, and entrepreneurship. Served in leadership positions and helped with the founding of multiple clubs. 
+* Focused on artificial intelligence, renewable energies, and entrepreneurship
+* Served in leadership positions and helped with the founding of multiple clubs
 
 ## Experience
 ### The Law Offices of Philip Kantor, Las Vegas, NV
