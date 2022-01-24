@@ -2,7 +2,6 @@
 permalink: /resume/
 title: "Resume"
 ---
-<center>
   
 ## Jacob T Smith
 
@@ -49,4 +48,4 @@ title: "Resume"
   
 ## Interests
 acrobatics; fire spinning/breathing; traveling; cooking; carpentry; guitar repair; computer repair; rock climbing
-</center>
+
